@@ -1,0 +1,1 @@
+Using the concept of string injection by receiving data from the user, display it in the output in two ways.
