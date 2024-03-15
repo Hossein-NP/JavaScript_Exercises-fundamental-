@@ -1,0 +1,2 @@
+Get the user's age.
+If the user's age is less than 18, show him the message "You are not allowed to enter" and otherwise show the message "Log in to the panel".

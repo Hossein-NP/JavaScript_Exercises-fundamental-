@@ -1,0 +1,1 @@
+Take three numbers from the user and calculate their average.
