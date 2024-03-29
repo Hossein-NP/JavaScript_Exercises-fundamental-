@@ -2,18 +2,16 @@
 //It should be noted that in the above formula, weight should be in kilograms (Kg) and height should be in meters (m).
 
 
-// receive weight and height person one
-let personOneHeight , personOneWeight;
-personOneHeight = +prompt('Please Enter Height For Person One (m):');
-personOneWeight = +prompt('Please Enter Weight For Person One (kg):');
+let aliWeight = 78;
+let aliHeight = 1.69;
 
-// receive weight and height person Two
-let personTwoHeight , personTwoWeight;
-personTwoHeight = +prompt('Please Enter Height For Person Two (m):');
-personTwoWeight = +prompt('Please Enter Weight For Person Two (kg):');
+let rezaWeight = 92;
+let rezaHeight = 1.95;
 
-let BmiPersonOne , BmiPersonTwo;
-BmiPersonOne = personOneWeight / (personOneHeight**2);
-BmiPersonTwo = personTwoWeight / (personTwoHeight * personTwoHeight);
+let aliBmi = aliWeight / (aliHeight**2);
+let rezaBmi = rezaWeight / (rezaHeight*rezaHeight);
 
-alert(`BmiPersonOne = ${BmiPersonOne}\nBmiPersonTwo = ${BmiPersonTwo}`);
+console.log(`aliBmi = ${aliBmi}\nrezaBmi = ${rezaBmi}`);
+
+let aliHeigherBmi = aliBmi > rezaBmi;
+console.log(`aliheigherbmi = ${aliHeigherBmi}`);

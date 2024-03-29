@@ -1,0 +1,15 @@
+Ali and Reza are going to compare their BMI (Body Mass Indexes). Calculation formula
+  BMI is as follows:
+BMI = Weight / (Height) 2
+BMI = Weight / (Height * Height)
+It should be noted that in the above formula, weight should be in kilograms (kg) and height should be in meters (m).
+Your duties:
+  1) Store the weights of Ali and Reza in two different variables.
+  2) Calculate the BMI index for each of them and store it in a suitable variable (for Ali
+Use the first formula and the second formula for Reza)
+  3) Create a Boolean variable named AliHigherBMI that contains information about more
+The presence or absence of Ali's BMI compared to Reza. Test data:
+  1) Set Ali's weight to 78 kilograms and his height to 1.69 meters; Also, Reza's weight is 92 kg
+Set his height to 1.95 meters.
+  2) Set Ali's weight to 95 kilograms and his height to 1.88 meters; Also, Reza's weight is 85 kg
+Set his height to 1.76 meters.
