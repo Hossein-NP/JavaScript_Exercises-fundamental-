@@ -10,7 +10,6 @@ let rezaHeight = 1.95;
 
 let aliBmi = aliWeight / (aliHeight**2);
 let rezaBmi = rezaWeight / (rezaHeight*rezaHeight);
-
 console.log(`aliBmi = ${aliBmi}\nrezaBmi = ${rezaBmi}`);
 
 let aliHeigherBmi = aliBmi > rezaBmi;
