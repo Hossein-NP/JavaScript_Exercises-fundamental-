@@ -1,0 +1,3 @@
+Get age and gender from the user.
+If the gender of the user is male or the age is less than 18, it will show an error
+And otherwise, show him the permission to enter the panel.

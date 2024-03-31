@@ -1,0 +1,12 @@
+Ali and Reza are going to compare their BMI (Body Mass Indexes). Calculation formula
+  BMI is as follows:
+BMI = Weight / (Height) 2
+BMI = Weight / (Height * Height)
+It should be noted that in the above formula, weight should be in kilograms (kg) and height should be in meters (m).
+Your duties:
+  1) A message will be printed in the Console window and say whose BMI is higher. Example:
+Ali's BMI is higher than Reza
+Reza's BMI is higher than Ali
+  2) In a separate message, using Template Literal after the word BMI, the calculated value
+  BMI of the desired person should be printed. Example:
+Ali's BMI (33.7) Is Higher Than Raza's BMI (28.4)
