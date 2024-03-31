@@ -1,0 +1,12 @@
+Write a program to calculate the amount of tip you should pay! In European countries, when
+A person goes to a restaurant to eat; If the bill is between 50 and 300 euros; Level
+Gratuity will be equal to 15% of the invoice amount; Otherwise, the tip amount is 20
+A percentage of the amount is billed.
+Your duties:
+  1) Calculate the tip amount based on the bill. Note that for this permission to use
+You don't have if and else commands.
+  2) Print the amount of the bill, tip and final payment (bill + tip).
+Test data:
+Test data 275:1
+Test data 40:2
+Test data 430:3

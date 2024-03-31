@@ -1,0 +1,26 @@
+We have two gymnastics teams; Blue team and red team. These two teams competed against each other three times. a team
+Whoever has a higher average score is the winner and will win the cup.
+Your duties:
+  1) Calculate and display the average score of each team. (Three test data samples at the end of the question
+given)
+  2) Compare the average scores of the two teams and print the name of the winning team. do not forget
+that two teams may reach the same result (that is, their average points are equal to each other)
+In this case, the cup will be awarded to both teams.
+  3) change your codes in such a way that each team is required to earn at least 100 points; with this
+Rule, a team will only be declared the winner if it first has a higher average score than the team
+have more; Secondly, the average score should be at least 100. (Hint: from logical operators
+(use) Again, don't forget that two teams may end up tied; But this time
+Only if both teams have earned at least 100 points, they can be awarded the trophy
+In case of not getting at least 100 points, no trophy will be awarded to any of the teams. Test data:
+Sample test data) 1
+Blue team scores: 89, 108, 96
+The points of the red team: 110, 91, 88
+sample test data) 2
+The points of the blue team: 101, 112, 97
+The points of the red team: 123, 95, 109
+sample test data) 3
+The points of the blue team: 101, 112, 97
+The points of the red team: 106, 95, 109
+
+
+
